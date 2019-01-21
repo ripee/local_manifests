@@ -8,7 +8,7 @@
   <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revision="lineage-15.1" />		
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />		
   <project name="samsung-apq8084/android_device_samsung_apq8084-common" path="device/samsung/apq8084-common" remote="github" revision="lineage-15.1" />
-  <project name="samsung-apq8084/android_device_samsung_trlte" path="device/samsung/trlte" remote="github" revision="lineage-15.1" />
   <project name="samsung-apq8084/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="lineage-15.1" />
+  <project name="samsung-apq8084/android_device_samsung_trlte" path="device/samsung/trlte" remote="github" revision="lineage-15.1" />
   <project name="samsung-apq8084/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
 </manifest>
