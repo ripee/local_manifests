@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="LineageOS/android_bionic" />
-  <remove-project name="LineageOS/android_frameworks_av" />
-  <remove-project name="LineageOS/android_frameworks_base" />
-  <remove-project name="LineageOS/android_frameworks_native" />
-  <remove-project name="LineageOS/android_hardware_interfaces" />
-  <remove-project name="LineageOS/android_system_core" />
-  <remove-project name="LineageOS/android_vendor_lineage" />
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="lineage-15.1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revison="lineage-15.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revison="lineage-15.1" />
-  <project name="rINanDO/android_bionic" path="bionic" remote="github" revison="lineage-15.1" />
-  <project name="rINanDO/android_device_samsung_galaxys2-common" path="device/samsung/galaxys2-common" remote="github" revison="lineage-15.1" />
   <project name="rINanDO/android_device_samsung_i9100" path="device/samsung/i9100" remote="github" revison="lineage-15.1" />
-  <project name="rINanDO/android_hardware_interfaces" path="hardware/interfaces" remote="github" revision="lineage-15.1" />
-  <project name="rINanDO/android_hardware_samsung" path="hardware/samsung" remote="github" revison="lineage-15.1" />
   <project name="rINanDO/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revison="lineage-15.1" />
   <project name="rINanDO/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
-  <project name="ripee/android_frameworks_av" path="frameworks/av" remote="github" revison="lineage-15.1" />
-  <project name="ripee/android_frameworks_base" path="frameworks/base" remote="github" revison="lineage-15.1" />
-  <project name="ripee/android_frameworks_native" path="frameworks/native" remote="github" revison="lineage-15.1" />
-  <project name="ripee/android_system_core" path="system/core" remote="github" revison="lineage-15.1" />
-  <project name="ripee/android_vendor_lineage" path="vendor/lineage" remote="github" revison="lineage-15.1" />
+  <project name="ripee/android_device_samsung_galaxys2-common" path="device/samsung/galaxys2-common" remote="github" revison="lineage-15.1" />
 </manifest>
