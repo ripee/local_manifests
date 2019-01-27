@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
-  <project name="ivanmeler/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />
-  <project name="ivanmeler/android_kernel_samsung_herolte" path="kernel/samsung/herolte" remote="github" revision="lineage-15.1" />
-  <project name="ivanmeler/proprietary_vendor_samsung_hero-common" path="vendor/samsung/hero-common" remote="github" revision="lineage-15.1" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
+  <project name="ivanmeler/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
+  <project name="ivanmeler/android_kernel_samsung_herolte" path="kernel/samsung/herolte" remote="github" revision="lineage-16.0" />
+  <project name="ivanmeler/proprietary_vendor_samsung_hero-common" path="vendor/samsung/hero-common" remote="github" revision="lineage-16.0" />
   <project name="ivanmeler/proprietary_vendor_seal" path="vendor/seal/seal" remote="github" revision="master" />
-  <project name="ripee/android_device_samsung_herolte" path="device/samsung/herolte" remote="github" revision="lineage-15.1" />
-  <project name="ripee/seals_something_anotherhing" path="device/samsung/hero-common" remote="github" revision="15.1-no-bsp" />
+  <project name="ripee/android_device_samsung_herolte" path="device/samsung/herolte" remote="github" revision="lineage-16.0" />
+  <project name="ripee/seals_something_anotherhing" path="device/samsung/hero-common" remote="github" revision="lineage-16.0-nobsp" />
 </manifest>

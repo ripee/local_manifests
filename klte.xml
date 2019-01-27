@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revison="lineage-15.1" />
-  <project name="LineageOS/android_device_samsung_klte" path="device/samsung/klte" remote="github" revison="lineage-15.1" />
-  <project name="LineageOS/android_device_samsung_klte-common" path="device/samsung/klte-common" remote="github" revison="lineage-15.1" />
-  <project name="LineageOS/android_device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" revison="lineage-15.1" />
-  <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revison="lineage-15.1" />
-  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revison="lineage-15.1" />
-  <project name="LineageOS/android_kernel_samsung_msm8974" path="kernel/samsung/msm8974" remote="github" revison="lineage-15.1" />
-  <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revison="lineage-15.1" />
-  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revison="lineage-15.1" />
-  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revison="lineage-16.0" />
+  <project name="LineageOS/android_device_samsung_klte" path="device/samsung/klte" remote="github" revison="lineage-16.0" />
+  <project name="LineageOS/android_device_samsung_klte-common" path="device/samsung/klte-common" remote="github" revison="lineage-16.0" />
+  <project name="LineageOS/android_device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" revison="lineage-16.0" />
+  <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revison="lineage-16.0" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revison="lineage-16.0" />
+  <project name="LineageOS/android_kernel_samsung_msm8974" path="kernel/samsung/msm8974" remote="github" revison="lineage-16.0" />
+  <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revison="lineage-16.0" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revison="lineage-16.0" />
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
 </manifest>
