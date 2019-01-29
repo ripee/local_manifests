@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.1" />
+  <remove-project name="LineageOS/android_system_bt" />
   <project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_hardware_sony_DASH" path="hardware/sony/DASH" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
-  <project name="fusion3-common/android_device_sony_fusion3-common" path="device/sony/fusion3-common" remote="github" revision="lineage-16.0" />
-  <project name="fusion3-common/android_device_sony_pollux" path="device/sony/pollux" remote="github" revision="lineage-16.0" />
   <project name="fusion3-common/android_device_sony_pollux-common" path="device/sony/pollux-common" remote="github" revision="lineage-16.0" />
-  <project name="fusion3-common/android_kernel_sony_apq8064" path="kernel/sony/apq8064" remote="github" revision="lineage-16.0" />
+  <project name="fusion3-common/android_device_sony_pollux" path="device/sony/pollux" remote="github" revision="lineage-16.0" />
   <project name="fusion3-common/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="lineage-16.0" />
+  <project name="ripee/android_device_sony_fusion3-common" path="device/sony/fusion3-common" remote="github" revision="lineage-16.0" />
+  <project name="ripee/android_kernel_sony_apq8064" path="kernel/sony/apq8064" remote="github" revision="lineage-16.0" />
+  <project name="ripee/android_system_bt" path="system/bt" remote="github" revision="lineage-16.0" />
 </manifest>
