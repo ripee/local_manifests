@@ -2,6 +2,7 @@
 <manifest>
   <project name="JDCTeam/android_kernel_samsung_jf-pieForCommunity" path="kernel/samsung/jf" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_device_samsung_jfltexx" path="device/samsung/jfltexx" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
   <project name="los-legacy/proprietary_vendor_samsung_jf" path="vendor/samsung" remote="github" revision="lineage-16.0" />
