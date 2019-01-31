@@ -2,13 +2,11 @@
 <manifest>
   <remove-project name="LineageOS/android_bionic" />
   <remove-project name="LineageOS/android_external_perfetto" />
-  <remove-project name="LineageOS/android_frameworks_native" />
   <remove-project name="LineageOS/android_system_core" />
   <project name="JDCTeam/android_bionic" path="bionic" remote="github" revision="opt-cm-16.0" />
   <project name="JDCTeam/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="opt-cm-16.0" />
   <project name="JDCTeam/android_external_arm-optimized-routines" path="external/arm-optimized-routines" remote="github" revision="opt-cm-16.0" />
   <project name="JDCTeam/android_external_perfetto" path="external/perfetto" remote="github" revision="opt-cm-16.0" />
-  <project name="JDCTeam/android_frameworks_native" path="frameworks/native" remote="github" revision="opt-cm-16.0" />
   <project name="JDCTeam/android_kernel_samsung_jf-pieForCommunity" path="kernel/samsung/jf" remote="github" revision="opt-cm-16.0" />
   <project name="JDCTeam/android_system_core-pie" path="system/core" remote="github" revision="opt-cm-16.0" />
   <project name="LineageOS/android_device_samsung_jfltexx" path="device/samsung/jfltexx" remote="github" revision="lineage-16.0" />
