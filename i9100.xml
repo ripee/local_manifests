@@ -15,6 +15,7 @@
   <remove-project name="LineageOS/android_system_netd" />
   <remove-project name="LineageOS/android_system_vold" />
   <remove-project name="LineageOS/android_vendor_lineage" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
   <project name="nopatience/proprietary_vendor_samsung" path="vendor/samsung" remote="gitlab" revision="lineage-16.0" />
   <project name="rINanDO/android_bionic" path="bionic" remote="github" revision="lineage-16.0" />
   <project name="rINanDO/android_frameworks_av" path="frameworks/av" remote="github" revision="lineage-16.0" />
