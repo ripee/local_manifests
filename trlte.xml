@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="LineageOS/android_system_bt" />
   <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-16.0" />			
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />		
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="lineage-16.0" />				
@@ -9,7 +8,6 @@
   <project name="mobspyguy/android_kernel_samsung_apq8084" path="kernel/samsung/apq8084" remote="github" revision="lineage-16.0" />	
   <project name="ripee/android_device_samsung_apq8084-common" path="device/samsung/apq8084-common" remote="github" revision="lineage-16.0" />
   <project name="ripee/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="lineage-16.0" />
-  <project name="ripee/android_system_bt" path="system/bt" remote="github" revision="lineage-16.0" />
   <project name="samsung-apq8084/android_device_samsung_trlte" path="device/samsung/trlte" remote="github" revision="lineage-16.0" />
   <project name="samsung-apq8084/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
 </manifest>
