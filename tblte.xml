@@ -7,7 +7,7 @@
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
   <project name="mobspyguy/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
   <project name="ripee/android_device_samsung_apq8084-common" path="device/samsung/apq8084-common" remote="github" revision="lineage-16.0" />
-  <project name="ripee/android_device_samsung_tblte" path="device/samsung/tblte" remote="github" revision="lineage-16.0" />
   <project name="ripee/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" revision="lineage-16.0" />
-  <project name="samsung-apq8084/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-15.1" />
+  <project name="samsung-apq8084/android_device_samsung_tblte" path="device/samsung/tblte" remote="github" revision="lineage-16.0" />
+  <project name="samsung-apq8084/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
 </manifest>
