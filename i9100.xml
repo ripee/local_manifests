@@ -16,7 +16,6 @@
   <remove-project name="LineageOS/android_system_vold" />
   <remove-project name="LineageOS/android_vendor_lineage" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
-  <project name="nopatience/proprietary_vendor_samsung" path="vendor/samsung" remote="gitlab" revision="lineage-16.0" />
   <project name="rINanDO/android_bionic" path="bionic" remote="github" revision="lineage-16.0" />
   <project name="rINanDO/android_device_samsung_galaxys2-common" path="device/samsung/galaxys2-common" remote="github" revision="lineage-16.0" />
   <project name="rINanDO/android_frameworks_av" path="frameworks/av" remote="github" revision="lineage-16.0" />
@@ -35,4 +34,5 @@
   <project name="rINanDO/android_system_vold" path="system/vold" remote="github" revision="lineage-16.0" />
   <project name="rINanDO/android_vendor_lineage" path="vendor/lineage" remote="github" revision="lineage-16.0" />
   <project name="ripee/android_device_samsung_i9100" path="device/samsung/i9100" remote="github" revision="lineage-16.0" />
+  <project name="rINanDO/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
 </manifest>
