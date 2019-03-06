@@ -1,38 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="gitlab" fetch="https://gitlab.com/" />
-  <remove-project name="LineageOS/android_bionic" />
-  <remove-project name="LineageOS/android_frameworks_av" />
   <remove-project name="LineageOS/android_frameworks_base" />
-  <remove-project name="LineageOS/android_frameworks_native" />
-  <remove-project name="LineageOS/android_hardware_broadcom_libbt" />
-  <remove-project name="LineageOS/android_hardware_interfaces" />
-  <remove-project name="LineageOS/android_packages_apps_LineageParts" />
-  <remove-project name="LineageOS/android_packages_apps_Settings" />
   <remove-project name="LineageOS/android_system_core" />
-  <remove-project name="LineageOS/android_system_extras" />
-  <remove-project name="LineageOS/android_system_extras_su" />
-  <remove-project name="LineageOS/android_system_netd" />
   <remove-project name="LineageOS/android_system_vold" />
-  <remove-project name="LineageOS/android_vendor_lineage" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
-  <project name="rINanDO/android_bionic" path="bionic" remote="github" revision="lineage-16.0" />
   <project name="rINanDO/android_device_samsung_galaxys2-common" path="device/samsung/galaxys2-common" remote="github" revision="lineage-16.0" />
-  <project name="rINanDO/android_frameworks_av" path="frameworks/av" remote="github" revision="lineage-16.0" />
   <project name="rINanDO/android_frameworks_base" path="frameworks/base" remote="github" revision="lineage-16.0" />
-  <project name="rINanDO/android_frameworks_native" path="frameworks/native" remote="github" revision="lineage-16.0" />
-  <project name="rINanDO/android_hardware_broadcom_libbt" path="hardware/broadcom/libbt" remote="github" revision="lineage-16.0" />
-  <project name="rINanDO/android_hardware_interfaces" path="hardware/interfaces" remote="github" revision="lineage-16.0" />
   <project name="rINanDO/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
   <project name="rINanDO/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="lineage-16.0" />
-  <project name="rINanDO/android_packages_apps_LineageParts" path="packages/apps/LineageParts" remote="github" revision="lineage-16.0" />
-  <project name="rINanDO/android_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="lineage-16.0" />
   <project name="rINanDO/android_system_core" path="system/core" remote="github" revision="lineage-16.0" />
-  <project name="rINanDO/android_system_extras" path="system/extras" remote="github" revision="lineage-16.0" />
-  <project name="rINanDO/android_system_extras_su" path="system/extras/su" remote="github" revision="lineage-16.0" />
-  <project name="rINanDO/android_system_netd" path="system/netd" remote="github" revision="lineage-16.0" />
   <project name="rINanDO/android_system_vold" path="system/vold" remote="github" revision="lineage-16.0" />
-  <project name="rINanDO/android_vendor_lineage" path="vendor/lineage" remote="github" revision="lineage-16.0" />
-  <project name="ripee/android_device_samsung_i9100" path="device/samsung/i9100" remote="github" revision="lineage-16.0" />
   <project name="rINanDO/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
+  <project name="ripee/android_device_samsung_i9100" path="device/samsung/i9100" remote="github" revision="lineage-16.0" />
 </manifest>
