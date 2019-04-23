@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="Galaxy-MSM8916/android_device_samsung_msm8916-common" path="device/samsung/msm8916-common" remote="github" revision="lineage-16.0" />
+  <project name="Galaxy-MSM8916/android_device_samsung_serranovelte" path="device/samsung/serranovelte" remote="github" revision="lineage-16.0" />
+  <project name="Galaxy-MSM8916/android_device_samsung_serranovexx-common" path="device/samsung/serranovexx-common" remote="github" revision="lineage-16.0" />
+  <project name="Galaxy-MSM8916/android_kernel_samsung_msm8916" path="kernel/samsung/msm8916" remote="github" revision="lineage-16.0" />
+  <project name="Galaxy-MSM8916/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
+</manifest>
