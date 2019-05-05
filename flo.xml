@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remove-project name="LineageOS/android_hardware_broadcom_nfc" />
   <remove-project name="LineageOS/android_hardware_qcom_display" />
   <remove-project name="LineageOS/android_hardware_qcom_media" />
   <project name="followmsi/android_device_asus_flo" path="device/asus/flo" remote="github" revision="los-16.0-aosp" />
