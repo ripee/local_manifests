@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remove-project name="LineageOS/android_frameworks_base" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
-  <project name="rINanDO/android_device_samsung_galaxys2-common" path="device/samsung/galaxys2-common" remote="github" revision="lineage-16.0" />
+  <project name="rINanDO/android_frameworks_base" path="frameworks/base" remote="github" revision="lineage-16.0" />
   <project name="rINanDO/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
   <project name="rINanDO/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="lineage-16.0" />
   <project name="rINanDO/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
+  <project name="ripee/android_device_samsung_galaxys2-common" path="device/samsung/galaxys2-common" remote="github" revision="lineage-16.0" />
   <project name="ripee/android_device_samsung_i9100" path="device/samsung/i9100" remote="github" revision="lineage-16.0" />
 </manifest>
