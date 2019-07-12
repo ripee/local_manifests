@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project name="LineageOS/android_device_samsung_msm8930-common" path="device/samsung/msm8930-common" remote="github" revison="lineage-16.0" />
   <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revison="lineage-16.0" />
+  <project name="LineageOS/android_device_samsung_serrano-common" path="device/samsung/serrano-common" remote="github" revison="lineage-16.0" />
   <project name="LineageOS/android_device_samsung_serranoltexx" path="device/samsung/serranoltexx" remote="github" revison="lineage-16.0" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revison="lineage-16.0" />
   <project name="LineageOS/android_kernel_samsung_msm8930-common" path="kernel/samsung/msm8930-common" remote="github" revison="lineage-16.0" />
   <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revison="lineage-16.0" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revison="lineage-16.0" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
-  <project name="ripee/android_device_samsung_msm8930-common" path="device/samsung/msm8930-common" remote="github" revison="lineage-16.0" />
-  <project name="ripee/android_device_samsung_serrano-common" path="device/samsung/serrano-common" remote="github" revison="lineage-16.0" />
 </manifest>
