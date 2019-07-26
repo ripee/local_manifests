@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
+  <project name="ripee/android_device_samsung_jfve-common" path="device/samsung/jfve-common" remote="github" revision="lineage-16.0" />
+  <project name="ripee/android_device_samsung_jfvelte" path="device/samsung/jfvelte" remote="github" revision="lineage-16.0" />
+</manifest> 
