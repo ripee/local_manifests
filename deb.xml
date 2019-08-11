@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <remove-project name="LineageOS/android_hardware_broadcom_nfc" />
-  <project name="followmsi/android_device_asus_deb" path="device/asus/deb" remote="github" revision="los-16.0" />
-  <project name="followmsi/android_device_asus_flo" path="device/asus/flo" remote="github" revision="los-16.0" />
-  <project name="followmsi/android_kernel_google_msm" path="kernel/google/msm" remote="github" revision="followmsi-pie" />
-  <project name="followmsi/android_vendor" path="vendor/asus" remote="github" revision="flo-deb-lineage-16.0" />
-</manifest>
